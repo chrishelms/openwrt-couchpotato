@@ -10,8 +10,6 @@ Here is the init script I came up with. Quick and dirty approach...
 /etc/init.d/couchpotato
 
 #!/bin/sh /etc/rc.common
-# Example script
-# Copyright (C) 2007 OpenWrt.org
 
 START=97
 
